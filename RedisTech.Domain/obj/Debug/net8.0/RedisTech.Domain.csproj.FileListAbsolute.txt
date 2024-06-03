@@ -1,0 +1,12 @@
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\bin\Debug\net8.0\RedisTech.Domain.deps.json
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\bin\Debug\net8.0\RedisTech.Domain.dll
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\bin\Debug\net8.0\RedisTech.Domain.pdb
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\obj\Debug\net8.0\RedisTech.Domain.csproj.AssemblyReference.cache
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\obj\Debug\net8.0\RedisTech.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\obj\Debug\net8.0\RedisTech.Domain.AssemblyInfoInputs.cache
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\obj\Debug\net8.0\RedisTech.Domain.AssemblyInfo.cs
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\obj\Debug\net8.0\RedisTech.Domain.csproj.CoreCompileInputs.cache
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\obj\Debug\net8.0\RedisTech.Domain.dll
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\obj\Debug\net8.0\refint\RedisTech.Domain.dll
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\obj\Debug\net8.0\RedisTech.Domain.pdb
+E:\Boosty\Проекты\RedisTech\RedisTech.Domain\obj\Debug\net8.0\ref\RedisTech.Domain.dll

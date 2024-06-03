@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <UserSecretsId>ef21c920-9695-4566-bea3-1c288bb5efa1</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.5"/>
+        <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\RedisTech.Application\RedisTech.Application.csproj" />
+      <ProjectReference Include="..\RedisTech.DAL\RedisTech.DAL.csproj" />
+      <ProjectReference Include="..\RedisTech.Domain\RedisTech.Domain.csproj" />
+    </ItemGroup>
+
+</Project>

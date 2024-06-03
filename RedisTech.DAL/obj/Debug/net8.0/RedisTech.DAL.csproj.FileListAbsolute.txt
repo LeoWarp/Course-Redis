@@ -1,0 +1,15 @@
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\bin\Debug\net8.0\RedisTech.DAL.deps.json
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\bin\Debug\net8.0\RedisTech.DAL.dll
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\bin\Debug\net8.0\RedisTech.DAL.pdb
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\bin\Debug\net8.0\RedisTech.Domain.dll
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\bin\Debug\net8.0\RedisTech.Domain.pdb
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\RedisTech.DAL.csproj.AssemblyReference.cache
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\RedisTech.DAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\RedisTech.DAL.AssemblyInfoInputs.cache
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\RedisTech.DAL.AssemblyInfo.cs
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\RedisTech.DAL.csproj.CoreCompileInputs.cache
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\RedisTech.DAL.csproj.CopyComplete
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\RedisTech.DAL.dll
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\refint\RedisTech.DAL.dll
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\RedisTech.DAL.pdb
+E:\Boosty\Проекты\RedisTech\RedisTech.DAL\obj\Debug\net8.0\ref\RedisTech.DAL.dll
